@@ -1,0 +1,11 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+
+# Data Validation and Schema definitions
+pydantic>=2.6.0
+
+# Machine Learning and Data Wrangling
+scikit-learn==1.6.1
+joblib>=1.3.0
+pandas>=2.0.0
+numpy>=1.22.0
