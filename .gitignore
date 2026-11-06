@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.env.example
+vite.config.js
+src/
+components/
+services/
+package.json
 # C extensions
 *.so
 
